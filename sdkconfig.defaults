@@ -1,0 +1,2 @@
+config_esp_system_row_panic_print_reboot=y
+config_freertos_hz=1000
